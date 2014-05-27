@@ -6,8 +6,8 @@
 //  Copyright (c) 2014 lzhteng. All rights reserved.
 //
 
-#ifndef Air_Precompile_h
-#define Air_Precompile_h
+//#ifndef Air_Precompile_h
+//#define Air_Precompile_h
 
 #ifndef __IPHONE_4_0
 #warning "AirFramework only available in iOS SDK 4.0 and later."
@@ -250,4 +250,4 @@ __typeof__(__a) __b = __a;
 //#import "Air_Vendor.h"
 
 
-#endif
+//#endif

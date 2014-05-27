@@ -6,8 +6,11 @@
 //  Copyright (c) 2014 lzhteng. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
 
-@interface Air : NSObject
+#import "Air_Precompile.h"
+#import "Air_Version.h"
+#import "Air_Vendor.h"
 
-@end
+#import "Air_MVC.h"
+#import "Air_System.h"
+

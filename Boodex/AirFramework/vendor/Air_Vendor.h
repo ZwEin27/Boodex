@@ -7,4 +7,21 @@
 //
 
 #import "Air_Precompile.h"
-#import "Air_VendorConfig.h"
+
+// Common
+#import "Air_VendorCommon.h"
+
+// Database
+#import "Air_VendorDatabase.h"
+
+// Multimedia
+#import "Air_VendorMultimedia.h"
+
+// Network
+#import "Air_VendorNetwork.h"
+
+// Sensor
+#import "Air_VendorSensor.h"
+
+// UI
+#import "Air_VendorUI.h"

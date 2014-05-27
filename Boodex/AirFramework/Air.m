@@ -7,7 +7,3 @@
 //
 
 #import "Air.h"
-
-@implementation Air
-
-@end
